@@ -11,7 +11,9 @@ time lines (1, 7, and 30 days).
 
 ## Workflow
 **1.** The project utilizes data from two primary sources. First is Crypto Fear & Greed Index, an index that aggregates emotions and sentiments from various sources into a single value ranging from 0 (Extreme Fear) to 100 (Extreme Greed). Second is Price Data, Historical Bitcoin (BTC) prices were retrieved from Yahoo Finance using the yfinance library. The dataset covers the period from February 5 2018 to February 17 2026, merged into a unified DataFrame for analysis.
+
 **2.** The analysis focused on the Close price as the primary metric. Key analytical steps included: calculating average price performance across different sentiment categories; measuring price changes over multiple time lines: 1-day, 7-day, and 30-day periods; grouping performance metrics by sentiment levels to identify predictive patterns.
+
 **3.** The final dashboard provides a comprehensive view of market behavior:
 
 Sentiment Distribution: Total count of days the market spent in each emotional state.
