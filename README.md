@@ -4,7 +4,7 @@ This project explores the correlation between market sentiment (using the **Fear
 The primary goal of the analysis is to determine whether extreme market sentiments serve as reliable indicators for predicting returns across various 
 time lines (1, 7, and 30 days).
 
-## Tech Stack & Tools
+## Tech Stack
 * **Python (Pandas, yfinance):** Used for data collection, cleaning, and preprocessing of historical cryptocurrency and sentiment data.
 * **SQL Server:** Advanced data manipulation, complex analytical queries, and the creation of specialized Views for segmentation.
 * **Power BI:** Used for building interactive dashboard to visualize correlations, trends, and the performance of sentiment-based trading strategies.
