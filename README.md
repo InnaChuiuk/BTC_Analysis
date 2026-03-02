@@ -36,3 +36,5 @@ The Neutral state is unpredictable. It has high potential for both gains (like G
 The market spends nearly equal time in Greed (790 days) as it does in Fear, confirming the cyclical nature of Bitcoin over the last 8 years. Extreme Greed is the rarest and shortest-lived state (281 days), reflecting the instability of market peaks.
 
 Disclaimer: The cryptocurrency market is characterized by extreme volatility. This analysis is based on historical data and is not a guarantee of future results. No single indicator can predict price movements with 100% certainty; however, understanding statistical patterns allows for data-driven decision-making rather than emotional trading.
+
+![Аналітичний дашборд Power BI](BTC_Screen_English.png)
