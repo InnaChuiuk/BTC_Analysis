@@ -38,7 +38,7 @@ The market spends nearly equal time in Greed (790 days) as it does in Fear, conf
 Disclaimer: The cryptocurrency market is characterized by extreme volatility. This analysis is based on historical data and is not a guarantee of future results. No single indicator can predict price movements with 100% certainty; however, understanding statistical patterns allows for data-driven decision-making rather than emotional trading.
 
 ## Description of project folders
-1. Row file located in `/Excel` folder.
+1. Excel file after Python code located in `/Excel` folder.
 2. Python code located in `/Jupyter` folder.
 3. SQL code are in `/SQL` folder.
 4. Dashboards are in `/Power BI` folder.
