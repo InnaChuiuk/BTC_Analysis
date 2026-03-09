@@ -39,7 +39,7 @@ Disclaimer: The cryptocurrency market is characterized by extreme volatility. Th
 
 ## Description of project folders
 1. Excel file after Python code located in `/Excel` folder.
-2. Python code located in `/Jupyter` folder.
+2. Python code located in `/Python` folder.
 3. SQL code are in `/SQL` folder.
 4. Dashboards are in `/Power BI` folder.
 
