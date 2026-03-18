@@ -27,7 +27,7 @@ Risk/Reward Profile: Analysis of potential gains and losses (average percentage 
 ## Conclusions
 Contrary to the popular belief that "buying the top" is always bad, Extreme Greed exhibited a strong momentum effect. This state delivered the highest average returns over 7 days (3.7%) and 30 days (13%), proving that trend strength often outweighs high entry prices during market rallies.
 
-Risk vs. Reward: While Extreme Greed is aggressive and volatile in the short term (7-day risk of ~6%), it becomes the safest and most profitable state on a 30-day horizon, with the lowest average drawdown (-8%) compared to all other sentiments.
+While Extreme Greed is aggressive and volatile in the short term (7-day risk of ~6%), it becomes the safest and most profitable state on a 30-day horizon, with the lowest average drawdown (-8%) compared to all other sentiments.
 
 Fear is the most common market state (840 days), yet it shows the lowest growth across all timeframes. This highlights the difficulty of generating returns during long times when the market is negative.
 
